@@ -1,0 +1,32 @@
+# First Python output
+print('Hello, Python!')
+# Type of 12
+type(12)
+# Type of 2.14
+type(2.14)
+# Type of "Hello, Python 101!"
+type("Hello, Python 101!")
+type(6/2) # float
+type(6//2) # int
+# Addition operation expression
+43 + 60 + 16 + 41
+# Subtraction operation expression
+50 - 60
+# Multiplication operation expression
+5 * 5
+# Division operation expression
+25 / 5
+# Division operation expression
+25 / 6
+# Integer division operation expression
+25 // 5
+# Store value into variable
+x = 43 + 60 + 16 + 41
+# Print out the value in variable
+x
+# Use another variable to store the result of the operation between variable and value
+y = x / 60
+y
+# Overwrite variable with new value
+x = x / 60
+x
